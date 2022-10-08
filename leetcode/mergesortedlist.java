@@ -1,6 +1,6 @@
 package gitprojects.leetcode;
 
-public class mergesortedlist {
+public class mergesortedlist{
 
 //  Definition for singly-linked list.
  public class ListNode {
